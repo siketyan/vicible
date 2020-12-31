@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "lib": ["ESNext", "DOM"],
+    "module": "CommonJS",
+    "moduleResolution": "Node",
+    "pretty": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "ESNext"
+  }
+}

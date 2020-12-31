@@ -1,0 +1,16 @@
+{
+  "name": "vicible",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Naoki Ikeguchi <root@siketyan.dev>",
+  "license": "AGPL-3.0",
+  "workspaces": [
+    "packages/*/*"
+  ],
+  "scripts": {
+  },
+  "devDependencies": {
+    "lerna": "^3.22.1",
+    "typescript": "^4.1.3"
+  }
+}
