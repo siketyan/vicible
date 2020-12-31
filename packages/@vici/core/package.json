@@ -1,0 +1,21 @@
+{
+  "name": "@visi/core",
+  "version": "0.0.0",
+  "author": "Naoki Ikeguchi <root@siketyan.dev>",
+  "homepage": "https://github.com/siketyan/vicible#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siketyan/vicible.git"
+  },
+  "bugs": {
+    "url": "https://github.com/siketyan/vicible/issues"
+  },
+  "license": "AGPL-3.0",
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc -b ./tsconfig.json"
+  }
+}
